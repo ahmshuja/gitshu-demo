@@ -2,5 +2,5 @@
 
 This is my first Git Repository.
 <br>
-Author - Shuja Ahmad Kazimi (coder)
+Author - Shuja Ahmad Kazimi coder
 
